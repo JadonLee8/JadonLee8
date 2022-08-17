@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm Jadon Lee, a junior at Westwood Highschool who's passionate in tech and finance.
+
+## In my Github you can find:
+- school projects
+- personal projects
+- practice/learning new technologies and languages
+- and more!
+
 
 <!--
 **JadonLee8/JadonLee8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
